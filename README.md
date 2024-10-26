@@ -1,7 +1,12 @@
 # Exercise-04c-Enemies
 
 ## Implementation
-
+My own  animation
+Drew the background
+drew the fox frame by frame
+Added start scene
+Made start scene art 
+Added different levels
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
